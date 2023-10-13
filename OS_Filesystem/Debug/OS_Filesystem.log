@@ -1,0 +1,11 @@
+﻿  DiskManager.cpp
+  FileManager.cpp
+C:\Users\Matlantrix\source\repos\OS_Filesystem\OS_Filesystem\FileManager.cpp(110,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Matlantrix\source\repos\OS_Filesystem\OS_Filesystem\FileManager.cpp(341,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Matlantrix\source\repos\OS_Filesystem\OS_Filesystem\FileManager.cpp(495,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Matlantrix\source\repos\OS_Filesystem\OS_Filesystem\FileManager.cpp(504,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+C:\Users\Matlantrix\source\repos\OS_Filesystem\OS_Filesystem\main.cpp(65,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Matlantrix\source\repos\OS_Filesystem\OS_Filesystem\main.cpp(81,21): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  OS_Filesystem.vcxproj -> C:\Users\Matlantrix\source\repos\OS_Filesystem\Debug\OS_Filesystem.exe
